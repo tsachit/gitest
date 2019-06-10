@@ -1,7 +1,5 @@
-# My git projet
-
-print('This is just a random project')
+def description():
+    print('This is just a random project')
 
 ## Done
-
-> Another code change
+description()
